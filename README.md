@@ -1,10 +1,11 @@
 [![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Cevdet Sedef</h1>
-<h3 align="center">A passionate Software Developer</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **.NET Core, Angular**
 
-- 📝 I regularly write articles on [https://cevvtech.com](https://cevvtech.com)
+- 📝 I regularly write blogs on [https://cevvtech.com](https://cevvtech.com)
 
 - 📫 How to reach me **cevdettsedeff@gmail.com**
 
